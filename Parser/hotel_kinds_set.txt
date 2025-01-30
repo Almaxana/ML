@@ -1,0 +1,5 @@
+
+/apartamenty/
+/guesthouse/
+/hostel/
+/mini_hotel/

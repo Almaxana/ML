@@ -1,0 +1,2 @@
+root_url = https://ostrovok.ru/hotel/russia/
+pages_numer_to_parse = 20
